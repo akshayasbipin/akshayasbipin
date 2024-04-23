@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Akshaya! 👋</h1>
+<h1>Hey there, I'm Akshaya! 👋🏽</h1>
 
 <p>Welcome to my corner of GitHub! I'm Akshaya, a passionate B.Tech student passionate about coding and problem-solving. Here's a glimpse into what keeps me busy:</p>
 
