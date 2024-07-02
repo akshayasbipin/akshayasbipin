@@ -30,6 +30,7 @@
 </div>
 
 ###
+
 <h3>Let's Connect!</h3>
 
 <p>Reach out to me on <a href="https://www.linkedin.com/in/akshaya-s-bipin/">LinkedIn</a> to chat about coding, tech, or anything under the sun. I'm always up for a good conversation!</p>
