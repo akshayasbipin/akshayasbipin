@@ -4,7 +4,7 @@
 
 <ul>
   <li>💻 <strong>Languages</strong>: Java, C, C++, Python, and SQL (MySQL).</li>
-  <li>🚀 <strong>Skills & Technologies</strong>: Excited about Algorithms, Data Structures, and exploring the realms of HTML, CSS, and JavaScript.</li>
+  <li>🚀 <strong>Skills & Technologies</strong>: Excited about Algorithms, Data Structures, and exploring the realms of HTML, CSS, and Laravel.</li>
   <li>🛠️ <strong>Tools</strong>: I'm familiar with tools like Eclipse and NetBeans, and I'm always eager to learn new tools that streamline development.</li>
   <li>📊 <strong>Data Enthusiast</strong>: I experiment with data analysis using tools like Pandas, Numpy, and Matplotlib, and seeking insights with PowerBI.</li>
   <li>🌐 <strong>Frameworks & Libraries</strong>: Numpy, Pandas, Scikit-learn, and Matplotlib.</li>
