@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Akshaya! 👋🏽</h1>
 
-<p>Welcome to my corner of GitHub! I'm Akshaya, a B.Tech student passionate about coding and problem-solving. Here's a glimpse into what keeps me busy:</p>
+<p>Welcome to my corner of GitHub! I'm Akshaya, AI & ML enthusiast, passionate about coding and problem-solving. Here's a glimpse into what keeps me busy:</p>
 
 <ul>
   <li>💻 <strong>Languages</strong>: Java, C, C++, Python, and SQL (MySQL).</li>
