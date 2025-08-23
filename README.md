@@ -33,7 +33,7 @@
 
 <h3>Let's Connect!</h3>
 
-<p>Reach out to me on <a href="https://www.linkedin.com/in/akshaya-s-bipin/">LinkedIn</a> to chat about coding, tech, or anything under the sun. I'm always up for a good conversation!</p>
+<p>Reach out to me on <a href="https://www.linkedin.com/in/akshaya-s-bipin/">LinkedIn</a> or <a href = "https://www.instagram.com/shy_milkshake_void/">Instagram</a> to chat about coding, tech, or anything under the sun. I'm always up for a good conversation!</p>
 
 <!-- <img align = "left" width = 47% src = "https://github-readme-stats.vercel.app/api?username=Akshaya21513&show_icons=true&theme=radical" />
 <img align = "left" width = 47% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya21513&layout=compact" /> -->
