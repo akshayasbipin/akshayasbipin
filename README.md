@@ -18,14 +18,6 @@
   <li>Exploring the latest trends in web development and machine learning, eager to expand my horizons.</li>
 </ul>
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshayasbipin&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayasbipin&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <h3 align="left">Languages and Tools:</h3>
